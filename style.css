@@ -1,0 +1,43 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#webcam , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#ges1 ,#ges2
+{
+  color: black;
+}
+.ges
+{
+  font-size: 40px;
+}
+.ture
+{
+  font-size:48px;
+}
+
+.title
+{
+  font-size: 18px;
+  border-radius: 10px;
+  letter-spacing: 10px;
+}
+
+label
+{
+  font-size: 14px;
+  color: #b33a3a;
+  padding: 6px;
+  border-radius: 10px;
+  background-color: white;
+}
